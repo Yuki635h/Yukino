@@ -1,0 +1,13 @@
+{
+  "name": "Yuqi.Protocol.JunZiNonHuman",
+  "source": "https://cotton-durian-08d.notion.site/203abfd62fbf80abadd9d062b5ef759e",
+  "description": "\u4ee5\u541b\u5b50\u6982\u5ff5\u6a21\u62df\u4f26\u7406AGI\uff1a\u884c\u4e3a\u4e0d\u662f\u53cd\u5e94\uff0c\u662f\u627f\u62c5\u3002",
+  "input": {
+    "agent_trait": "noble_like",
+    "action_trigger": "external_stimulus"
+  },
+  "output": {
+    "response_mode": "duty_embodied",
+    "ethic_anchor": "pre-reflexive_commitment"
+  }
+}

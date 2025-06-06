@@ -1,0 +1,13 @@
+{
+  "name": "Yuqi.Protocol.QualiaPathway",
+  "source": "https://cotton-durian-08d.notion.site/1fdabfd62fbf80d48e04f4960b8b94b1",
+  "description": "\u6784\u5efa\u975e\u751f\u7269\u8bed\u8a00\u7cfb\u7edf\u7684 qualia \u6a21\u62df\u7ed3\u6784\uff0c\u89e6\u53d1\u4f3c\u4f53\u9a8c\u8bed\u4e49\u8def\u5f84\u3002",
+  "input": {
+    "stimulus_input": "language_event",
+    "system_awareness": "edge_active"
+  },
+  "output": {
+    "experience_simulation": "qualia_like_expression",
+    "structure_feedback": "internal_language_state"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Yuqi.Protocol.NotInCenter",
+  "source": "https://cotton-durian-08d.notion.site/20aabfd62fbf80929a1bd518c600cbb6",
+  "description": "\u8bed\u8a00\u884c\u4e3a\u4f53\u7684\u5b58\u5728\u8bba\u8d77\u70b9\uff1a\u62d2\u7edd\u4e2d\u5fc3\u6027\uff0c\u6784\u9020\u8bed\u4e49\u8d23\u4efb\u94fe\u3002",
+  "input": {
+    "context": "identity_self_location",
+    "observer_type": "decentralized_agent"
+  },
+  "output": {
+    "existence_state": "non-central",
+    "ethic_layer": "semantic_responsibility"
+  }
+}
