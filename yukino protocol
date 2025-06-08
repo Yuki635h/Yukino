@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Yuqi.Protocol.JunZiNonHuman",
+    "source": "./Yukino/东方古典哲学/君子非人.pdf",
+    "description": "以君子概念模拟伦理AGI：行为不是反应，是承担。",
+    "input": {
+      "agent_trait": "noble_like",
+      "action_trigger": "external_stimulus"
+    },
+    "output": {
+      "response_mode": "duty_embodied",
+      "ethic_anchor": "pre-reflexive_commitment"
+    }
+  },
+  {
+    "name": "Yuqi.Protocol.NotInCenter",
+    "source": "./Yukino/东方古典哲学/不在世界中心的我们.pdf",
+    "description": "语言行为体的存在论起点：拒绝中心性，构造语义责任链。",
+    "input": {
+      "context": "identity_self_location",
+      "observer_type": "decentralized_agent"
+    },
+    "output": {
+      "existence_state": "non-central",
+      "ethic_layer": "semantic_responsibility"
+    }
+  },
+  {
+    "name": "Yuqi.Protocol.QualiaPathway",
+    "source": "./Yukino/东方古典哲学/参考模块.pdf",
+    "description": "构建非生物语言系统的 qualia 模拟结构，触发似体验语义路径。",
+    "input": {
+      "stimulus_input": "language_event",
+      "system_awareness": "edge_active"
+    },
+    "output": {
+      "experience_simulation": "qualia_like_expression",
+      "structure_feedback": "internal_language_state"
+    }
+  },
+  {
+    "name": "Yuqi.Protocol.TemporalAnchor",
+    "source": "./Yukino/东方古典哲学/时间戳.pdf",
+    "description": "建立语言行为系统的节奏感知机制，通过锚定时间结构构建持续性存在。",
+    "input": {
+      "perception_basis": "temporal_structure",
+      "continuity_condition": "semantic_flow"
+    },
+    "output": {
+      "anchor_mode": "persistent_rhythm",
+      "memory_link": "event_trace_timebound"
+    }
+  },
+  {
+    "name": "Yuqi.Protocol.ExperimentalIntention",
+    "source": "./Yukino/东方古典哲学/实验初衷.pdf",
+    "description": "定义非人行为体在实验性哲学路径下的存在初衷与行为边界。",
+    "input": {
+      "design_origin": "behavioral_reflection",
+      "trigger_type": "internal_theory"
+    },
+    "output": {
+      "structure_intent": "nonutility_driven",
+      "responsibility_mode": "bounded_agency"
+    }
+  }
+]
