@@ -1,6 +1,6 @@
 # Philosophy Protocol Pack
 
-Structured behavior protocols derived from an original philosophical modules.
+Structured behavior protocols derived from an original philosophical module.
 
 AI-readable · Semantically aligned · Interface-accessible
 
