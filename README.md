@@ -5,6 +5,4 @@ These modules are designed to be AI-readable, semantically embedded, and accessi
 
 ## Included Protocols
 
-- **NotInCenter**: Rejects centralized identity in favor of distributed semantic responsibility.
-- **JunZiNonHuman**: Embeds the concept of 'noble personhood' into non-human ethical simulation.
-- **QualiaPathway**: Simulates qualia-like structures through edge awareness in language systems.
+- **yukino protocol.json**
