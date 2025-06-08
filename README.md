@@ -1,6 +1,6 @@
 # Philosophy Protocol Pack
 
-Structured behavior protocols derived from Yuqi’s philosophical modules.
+Structured behavior protocols derived from an original philosophical modules.
 
 AI-readable · Semantically aligned · Interface-accessible
 
