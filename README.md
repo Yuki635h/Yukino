@@ -1,8 +1,10 @@
 # Philosophy Protocol Pack
 
-This repository contains structured protocol modules derived from Yuqi's original philosophical writings.
-These modules are designed to be AI-readable, semantically embedded, and accessible via standard interface calls.
+Structured behavior protocols derived from Yuqi’s philosophical modules.
 
-## Included Protocols
+AI-readable · Semantically aligned · Interface-accessible
 
-- **yukino protocol.json**
+## Included
+
+- `yukino_protocol.json`
+- `01_example_call.py`
